@@ -1,0 +1,16 @@
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\LerArquivoTXT.exe
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\LerArquivoTXT.deps.json
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\LerArquivoTXT.runtimeconfig.json
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\LerArquivoTXT.runtimeconfig.dev.json
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\LerArquivoTXT.dll
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\ref\LerArquivoTXT.dll
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\bin\Debug\net5.0\LerArquivoTXT.pdb
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.AssemblyInfoInputs.cache
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.AssemblyInfo.cs
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.dll
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\ref\LerArquivoTXT.dll
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.pdb
+C:\Users\Willian\Desktop\LerArquivoTXT\LerArquivoTXT\obj\Debug\net5.0\LerArquivoTXT.genruntimeconfig.cache
